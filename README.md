@@ -1,0 +1,1 @@
+# bo-grub-theme-vimix
